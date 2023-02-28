@@ -1,7 +1,6 @@
 # MultipleForm (REACT)
 
-![multipleForm](https://user-images.githubusercontent.com/77749469/221880136-261be36f-837e-4547-a258-60ddd4809624.gif)
-
+![multipleForm](https://user-images.githubusercontent.com/77749469/221880872-a23e5647-2425-4294-b528-d0fcf5583fa0.gif)
 
 > Demonstração do formulário com várias etapas
 
