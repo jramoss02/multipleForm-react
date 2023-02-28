@@ -19,9 +19,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * [npm / Node](https://nodejs.org) - Gerente de Dependência.
 * [React](https://pt-br.reactjs.org/) - Principal biblioteca.
 
-## ☕ Utilizando o Task Manager
+## ☕ Utilizando o Multiple Form
 
-Para usar <Task manager>, siga estas etapas:
+Para usar <Multiple Form>, siga estas etapas:
 
 ```
 <Com o projeto ja aberto, execute o comando 'npm run dev' para inicializar o servidor local>
